@@ -1,4 +1,4 @@
-const ROOT_API_URL = 'https://cse120-course-planner.herokuapp.com/api';
+const ROOT_API_URL = 'https://localhost:5003/v1/api';
 
 class BobcatCoursesApi {
 
